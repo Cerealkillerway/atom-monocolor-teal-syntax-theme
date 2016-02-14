@@ -1,0 +1,15 @@
+{
+  "name": "monocolor-teal-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "teal single color syntax highlight theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/Cerealkillerway/atom-monocolor-teal-syntax-theme.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
